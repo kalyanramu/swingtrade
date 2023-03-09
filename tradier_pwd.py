@@ -1,0 +1,2 @@
+TRADIER_API_KEY = "IfxGGBvKJyN8z6UuoMi4q4ASlaI2"
+account_id = '6YA12325'

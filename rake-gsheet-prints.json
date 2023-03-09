@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cobalt-pursuit-289623",
+  "private_key_id": "e0ab95c37f32988c1ab841339eccd67c74a9a490",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC4HE3ipC5ZIYNW\nNU1JQrX1FoTcoqCgTbNXRg3SwtpnqYIf+DI5rSnZu1II31HdkLHwxPp4ziGV9no4\nKorQGI+IQK7dFWqoKMjKxAU25oJHADqYSnModTwJRfmCMIhd8BwU4e4IjgNOcVsk\nEiRbEHgYHqbQrcvtJahdUsFJA/xH3xuJZc+XbbDEV3qwJfSS2zzTvt/PIOfC96H8\nxqpZpKwtC4ZUYJN+cAQdI/UnthVBqbSQm81ivzcklcadpXeMH3zce+sWeIaEDplk\nKJYrJb2BdNr9lRmISirprtqw2AwBqroyNP12KvrHq3eCky9eLE0DvvdoeVeFmsvr\nvIYm+gNbAgMBAAECggEAAPOR22HwjMjL53bOcAM7RuZf5zNJzDR6PTm0gldKFP7L\n60oRa14jQvGVRaDAaWaD9iA9l5xW/FAolVCUjMeie4eI0FVBq8KDg/bN3woZ6vSh\nQmJTzawNExFNxVEl4Sbs5wRZ3Ds3NWDggC8AFOCobVgvmjhuK2GBCFvWkxT33HDi\ncOwNnxDTkwXnZ8LOJoNU3oKB4tcdYmptTpItztgkMjWIpmxHIVpAyPQOXDh/Hltb\nAuT8SIa7+b4VsIxT/uZrEkO+opBlpAXjGZVR8FpRYkcuwbzp3qFMq1sQvbufh3vQ\nL1+aSHRqIPqrbNBRg6v3qWoX7Ko91pn3UyviSmfYQQKBgQD2BGJE5DYhHppEfASg\nl0RRzPjmefTOyeHDAt1CO3II0MWY7ESvbpJd6LuKaHy+cmzZ9OVHF/eLFTennxI1\ndDZWChoa+NCgcKXDCz6Vb33BM/6+s6/Ra2A4sGjygOQq31y1X7m45CQyoMNJUmTP\nTra4bCRgqpUQJp3AouEjvRUb2QKBgQC/lNZksSJchyapCLH5ccftUplrNOsSd4RS\nYIjEaILOCf7scU8DY+jsxtwpJo329SvfJ2ThamwF8HB1aqBvqeepWIKOthf6hikk\noKD4ObfAJX7DpVCQOWr1HhATTuixKuAgtv+lvm+uYQMnGmFHBBsdGZVB7Q/wNyqa\nBiQKCCBcUwKBgEnn9z2K8VfxwZZhS2KTDsskMIHMkWat70yOR7nl8dQEI9hU4i1x\nojbj+7MQwKjV5y1zDI3W/V6i+R06BFZamxgt4LnJlaMdNC7r6dkqrTSlUhooEOFw\nyG8/T8fKQMFAaLF0GG8a2mT7Nq+IORCuLOYqVqNTm4RGlY2RYOFDpFvBAoGAZ++0\nnK4o6S/9fmkUPTNIdu2ABFSST9N9ez+aE4xroqJzpg0XA8zZWlPMr5qWHGwIoCl8\nJnsZHePC70Cox8vSveIh+pC505WjjpaCngiaMulkq3ntikFMUK09pWwC+9M6AyWk\n7mOxrVY+YqGCMwf8Ob5eZoTZR8Z2G1fHh5W/ELcCgYEAx+6LgJJii9ePbliDjt20\nDt4Sq5nRXhwmFJEn74BGeEw/D7GeMQSMHSUbXYLp8WZ5gDacJ8DyTwQ/g8UULmPL\nkfTEHwLR6uCc8qDpyFb8UDphWBoge6j90DOlXv9ZKl5c74VMrWLwbVe0zQ9em+oK\nQkhu9DLe38qperXYgk1CJa4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "pythonwithsheets@cobalt-pursuit-289623.iam.gserviceaccount.com",
+  "client_id": "115749437035672092735",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pythonwithsheets%40cobalt-pursuit-289623.iam.gserviceaccount.com"
+}

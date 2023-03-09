@@ -1,0 +1,6 @@
+client_id = '3YYPS2RDYEKGTY85ONV9DZ3MUQKWKNTJ'
+password = 'kalyan81'
+username = 'kalyanramuv'
+redirect_uri = 'https://localhost/test'
+tda_api_key = '3YYPS2RDYEKGTY85ONV9DZ3MUQKWKNTJ'
+account_id = '786508058'

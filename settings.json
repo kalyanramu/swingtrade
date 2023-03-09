@@ -1,0 +1,8 @@
+{
+"loop_time": 10,
+"send_sms": false,
+"start_time": 1,
+"end_time": 12,
+"ignore_time": false,
+"stoploss_percentage" : 5
+}
